@@ -1,0 +1,154 @@
+* {
+  font-family: 'Poppins';
+}
+
+.view {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.login_container {
+  display: flex;
+  flex-direction: column;
+  width: 40vw;
+  height: 80vh;
+  justify-content: center;
+}
+
+.login_titulo {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  align-items: center;
+  justify-content: center;
+
+  font-family: 'Poppins Bold';
+}
+
+.login_titulo > h1 {
+  color: #000578;
+  font-family: 'Poppins Bold';
+}
+
+.login_titulo > span {
+  color: #918282;
+}
+
+.login_titulo > span > a {
+  color: #0873d5;
+}
+
+.login_form {
+  display: flex;
+  flex-direction: column;
+  width: 40vw;
+  height: 50vh;
+  padding: 50px;
+}
+
+.login_field {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
+
+.login_field > label {
+  font-family: 'Poppins Bold';
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  text-align: left;
+  color: #003069;
+
+}
+
+.input_login {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 5px 0 20px 0;
+  max-height: 50px;
+  height: 86px;
+  border-radius: 19px;
+  border: 3px solid #d9d9d9;
+}
+
+select {
+  padding-left: 15px;
+}
+
+select:focus-visible {
+  outline: none;
+}
+
+
+input {
+  width: 90%;
+  height: 100%;
+  border-radius: 19px 0 0 19px;
+  border: none;
+  background: none;
+  padding-left: 15px;
+}
+
+input:focus-visible {
+  outline: none;
+}
+
+.input_login > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 10%;
+  height: 100%;
+}
+
+.icon {
+  height: 60%; 
+}
+
+.button {
+  border: none;
+  color: #ffffff;
+  background: #003069;
+  justify-content: center;
+}
+
+.login > section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  height: 80vh;
+  border-radius: 50px 0 0 50px;
+  background: #f5f0f0;
+}
+
+.cadastro > section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  height: 80vh;
+  max-width: 20% + 20vw;
+  border-radius: 0 50px 50px 0; 
+  background: #f5f0f0;
+}
+
+.img_desenho {
+  display: flex;
+  height: 50vh;
+  width: 100%;
+}
+
+.img_logo {
+  display: flex;
+  height: 20vh;
+}
+

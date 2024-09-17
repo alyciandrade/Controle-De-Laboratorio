@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\obj\\PI.BackEnd.API.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\PI.BackEnd.API.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\obj\\PI.BackEnd.API.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\PI.BackEnd.API.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\obj\\PI.BackEnd.API.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\PI.BackEnd.API.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PI.BackEnd.API.csproj.nuget.g.props",
+              "DocumentMoniker": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\obj\\PI.BackEnd.API.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "obj\\PI.BackEnd.API.csproj.nuget.g.props",
+              "ToolTip": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\obj\\PI.BackEnd.API.csproj.nuget.g.props",
+              "RelativeToolTip": "obj\\PI.BackEnd.API.csproj.nuget.g.props",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-16T22:14:33.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PI.BackEnd.API.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\obj\\PI.BackEnd.API.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "obj\\PI.BackEnd.API.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\obj\\PI.BackEnd.API.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "obj\\PI.BackEnd.API.csproj.nuget.dgspec.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T22:14:31.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:13:41.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:10:59.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:11:12.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:14:15.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:14:12.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PI.BackEnd.API.csproj.nuget.g.targets",
+              "DocumentMoniker": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\obj\\PI.BackEnd.API.csproj.nuget.g.targets",
+              "RelativeDocumentMoniker": "obj\\PI.BackEnd.API.csproj.nuget.g.targets",
+              "ToolTip": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\obj\\PI.BackEnd.API.csproj.nuget.g.targets",
+              "RelativeToolTip": "obj\\PI.BackEnd.API.csproj.nuget.g.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-16T22:14:34.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "project.assets.json",
+              "DocumentMoniker": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\obj\\project.assets.json",
+              "RelativeDocumentMoniker": "obj\\project.assets.json",
+              "ToolTip": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\obj\\project.assets.json",
+              "RelativeToolTip": "obj\\project.assets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T22:14:36.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "project.nuget.cache",
+              "DocumentMoniker": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\obj\\project.nuget.cache",
+              "RelativeDocumentMoniker": "obj\\project.nuget.cache",
+              "ToolTip": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\obj\\project.nuget.cache",
+              "RelativeToolTip": "obj\\project.nuget.cache",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2024-09-16T22:14:37.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:13:58.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\alyci\\Documents\\Projeto Integrador 1\\Back-end-P.I-I-main\\Back-end-P.I-I-main\\PI.BackEnd.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T22:12:39.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
